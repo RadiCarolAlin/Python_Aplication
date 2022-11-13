@@ -1,0 +1,46 @@
+26-May-22 16:01:50 - VERSION: 1.1
+26-May-22 16:01:50 - GUI PARAMETERS:
+
+26-May-22 16:01:50 - ARCHITECT PARAMETERS:
+26-May-22 16:01:50 - Name column number: 4
+26-May-22 16:01:50 - Type column number: 17
+26-May-22 16:01:50 - Count column number: 18
+26-May-22 16:01:50 - Value column number: 30
+26-May-22 16:01:50 - Row start number: 4
+26-May-22 16:01:50 - Row end: PPAR_SECTION_END
+26-May-22 16:01:50 - Row address number: 4
+26-May-22 16:01:50 - Column address number: 10
+26-May-22 16:01:50 - Reserved column number: 20
+26-May-22 16:01:50 - Row a2l number: 6
+26-May-22 16:01:50 - Column a2l number: 9
+
+26-May-22 16:01:50 - SYSTEM PARAMETERS:
+26-May-22 16:01:50 - Name column number: 2
+26-May-22 16:01:50 - Type column number: 10
+26-May-22 16:01:50 - Count column number: 11
+26-May-22 16:01:50 - Value column number: 20
+26-May-22 16:01:50 - Row start number: 10
+26-May-22 16:01:50 - Row end number: si16_LoopbackPowerMax_dB
+26-May-22 16:01:50 - Project specific name: ARS513_Base
+26-May-22 16:01:50 - Project name type: default ARS
+26-May-22 16:01:50 - Elements to be ignored: u_SubCompatID , u_ProjectCompatID, si16_LfSporadicNoiseMax
+
+26-May-22 16:01:50 - OUTPUT PARAMETERS:
+26-May-22 16:01:50 - Name column number: 5
+26-May-22 16:01:50 - Type column number: 9
+26-May-22 16:01:50 - Count column number: 10
+26-May-22 16:01:50 - Value column number: 21
+26-May-22 16:01:50 - Row start number: 6
+26-May-22 16:01:50 - L2 write column: 3
+26-May-22 16:01:50 - Tree level 2 write column: 4
+26-May-22 16:01:50 - Reserved column: 100
+26-May-22 16:01:50 - Row write address: 5
+26-May-22 16:01:50 - Write column write address: 148
+26-May-22 16:01:50 - Row write column: 6
+26-May-22 16:01:50 - Column write column: 152
+26-May-22 16:01:50 - Column write second sheet column: 2
+26-May-22 16:01:50 - Limit value column number: 19
+26-May-22 16:01:50 - Row write second sheet column: 2
+26-May-22 16:01:50 - Low limit column number: 20
+26-May-22 16:01:50 - Max limit column number: 22
+

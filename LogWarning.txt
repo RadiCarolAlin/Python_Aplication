@@ -1,0 +1,13 @@
+[ARCHITECT SECTION]
+[TYPE AND VALUE DO NOT CORRESPOND]  Name: align1, Type: uint8, Count: 3, Value: 0xFFFFFF00
+[OUT OF RANGE]  Name: f_HM_LimitSets_Scaling, Type: float32, Count: 1, Value: 0xFFFFFFFF
+[OUT OF RANGE]  Name: f_McuOvBattWarn_deact, Type: float32, Count: 1, Value: 0xFFFFFFFF
+[OUT OF RANGE]  Name: f_McuOtWarnOff, Type: float32, Count: 1, Value: 0xFFFFFFFF
+[OUT OF RANGE]  Name: f_McuOtWarnOn, Type: float32, Count: 1, Value: 0xFFFFFFFF
+
+[SYSTEM SECTION]
+[TYPE AND VALUE DO NOT CORRESPOND]  Name: u_HM_LimitSets_VersionID, Type: uint32, Count: 1, Value: 0x0000
+
+[OUTPUT SECTION]
+[TYPE AND VALUE DO NOT CORRESPOND]  Name: align1, Type: uint8, Count: 3, Value: 0xFFFFFF00
+[TYPE AND VALUE DO NOT CORRESPOND]  Name: u_HM_LimitSets_VersionID, Type: uint32, Count: 1, Value: 0x0000
